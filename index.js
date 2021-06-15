@@ -1,5 +1,5 @@
+// DO FIRST
 // Run this command to install modules -> npm install
-
 // In your Gmail->Security Turn On Less Secure Apps Support
 
 const csv = require("csv-parser");
